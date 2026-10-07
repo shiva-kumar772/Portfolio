@@ -13,7 +13,7 @@ export function SectionHeader({ tag, title, dark }) {
           marginBottom: 8,
         }}
       >
-        // {tag}
+        {/* // {tag} */}
       </p>
       <div style={{ display: "flex", alignItems: "center", gap: 24 }}>
         <h2 style={{ fontSize: 36, fontWeight: 700, color: text, margin: 0 }}>
